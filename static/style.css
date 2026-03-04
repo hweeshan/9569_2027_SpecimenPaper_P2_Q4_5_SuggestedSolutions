@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: bold;
+
+    /* font: 50px bold Arial; */
+}
+
+h2 {
+    color: blue;
+    text-align: left;
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+
+    /* font: 30px bold Arial; */
+}
+
+p {
+    color: black;
+    text-align: justify;
+    font-family: Arial;
+    font-size: 14px;
+
+    /* font: 14px Arial; */
+}
