@@ -46,4 +46,4 @@ def process_form():
     # or, create an extra HTML document and pass the necessary variables in
     return flask.render_template('result.html', formgroup=formgroup, count=result[0], year=result[1], tutorID = result[2])
 
-app.run()
+# app.run()
